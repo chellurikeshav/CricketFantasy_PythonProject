@@ -4,7 +4,7 @@ virtual team of cricket players and score points on how the players perform in d
 matches.
 
 # Requirements
---> PyQt5 /n
+--> PyQt5
 --> Python3
 
 # How to run
